@@ -10,7 +10,9 @@ a lightweight Bootstrap 4 tooltip equivalent, if in case you are using jQuery bu
 
 just add the following attributes:
 ```data-toggle="tooltip"``` -> fixed
+
 ```title="Awaiting QA Processing"``` -> the tooltip content
+
 ```data-placement="top|right|bottom|left"``` -> tooltip placement
 
 
